@@ -1,3 +1,4 @@
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 # 💫 About Me:
 👯 I’m looking to collaborate on work-study program from September 2024<br>🌱 I’m currently learning at Oclock School<br><br>💬 Après avoir passé un peu plus de 8 ans dans les fusiliers commando de l'armée, je suis parti dans une tout autre branche, l'installation d'énergies renouvelables, ou j'y ai passé 8 années. Il était temps pour moi de trouver une nouvelle vois, celui du monde de la tech. Me voici aujourd'hui Développeur Web. Je suis très motivé et toujours dans l'objectif de devenir meilleur, je suis à la recherche d'une entreprise pour effectuer une alternance à partir de septembre 2024.  <br>
 
