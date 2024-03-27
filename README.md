@@ -15,8 +15,8 @@
 <p>
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge" />
-    https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-    https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    < img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 # 📫 How to reach me ?
